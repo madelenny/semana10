@@ -1,0 +1,14 @@
+¿Qué dos tareas haría primero?
+
+1. Permitir registrar una incidencia.
+2. Enviar una alerta a Telegram cuando se registre un nuevo reporte.
+
+¿Por qué son las más importantes?
+
+Porque permiten iniciar el proceso de reporte y avisar rápidamente al equipo para que haga seguimiento.
+
+Definición de terminado
+
+- La función trabaja correctamente.
+- Fue probada y no presenta errores.
+- Quedó registrada y publicada en Git.
